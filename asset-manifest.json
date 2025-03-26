@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/philo-website-2025/static/css/main.fa41456f.css",
-    "main.js": "/philo-website-2025/static/js/main.cfc39b19.js",
+    "main.css": "/philo-website-2025/static/css/main.3b326478.css",
+    "main.js": "/philo-website-2025/static/js/main.ea22f914.js",
     "static/js/453.98dd8da9.chunk.js": "/philo-website-2025/static/js/453.98dd8da9.chunk.js",
     "static/media/fa-solid-900.ttf": "/philo-website-2025/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/philo-website-2025/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -16,12 +16,12 @@
     "static/media/rye-latin-ext-400-normal.woff": "/philo-website-2025/static/media/rye-latin-ext-400-normal.4ff58de10b7a56cb8ea3.woff",
     "static/media/fa-v4compatibility.woff2": "/philo-website-2025/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/philo-website-2025/index.html",
-    "main.fa41456f.css.map": "/philo-website-2025/static/css/main.fa41456f.css.map",
-    "main.cfc39b19.js.map": "/philo-website-2025/static/js/main.cfc39b19.js.map",
+    "main.3b326478.css.map": "/philo-website-2025/static/css/main.3b326478.css.map",
+    "main.ea22f914.js.map": "/philo-website-2025/static/js/main.ea22f914.js.map",
     "453.98dd8da9.chunk.js.map": "/philo-website-2025/static/js/453.98dd8da9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa41456f.css",
-    "static/js/main.cfc39b19.js"
+    "static/css/main.3b326478.css",
+    "static/js/main.ea22f914.js"
   ]
 }
